@@ -1,0 +1,937 @@
+{
+  "image_file": "synthetic_plan_3.jpg",
+  "walls": [
+    {
+      "id": 100,
+      "coords": [
+        313,
+        150,
+        458,
+        150
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        385.5,
+        286.0
+      ]
+    },
+    {
+      "id": 101,
+      "coords": [
+        458,
+        150,
+        458,
+        422
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        385.5,
+        286.0
+      ]
+    },
+    {
+      "id": 102,
+      "coords": [
+        313,
+        422,
+        458,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        385.5,
+        286.0
+      ]
+    },
+    {
+      "id": 103,
+      "coords": [
+        313,
+        150,
+        313,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        385.5,
+        286.0
+      ]
+    },
+    {
+      "id": 104,
+      "coords": [
+        150,
+        582,
+        249,
+        582
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        199.5,
+        666.0
+      ]
+    },
+    {
+      "id": 105,
+      "coords": [
+        249,
+        582,
+        249,
+        750
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        199.5,
+        666.0
+      ]
+    },
+    {
+      "id": 106,
+      "coords": [
+        150,
+        750,
+        249,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        199.5,
+        666.0
+      ]
+    },
+    {
+      "id": 107,
+      "coords": [
+        150,
+        582,
+        150,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        199.5,
+        666.0
+      ]
+    },
+    {
+      "id": 108,
+      "coords": [
+        150,
+        422,
+        290,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        220.0,
+        502.0
+      ]
+    },
+    {
+      "id": 109,
+      "coords": [
+        290,
+        422,
+        290,
+        582
+      ],
+      "is_shared": true,
+      "has_opening": false,
+      "room_center": [
+        220.0,
+        502.0
+      ]
+    },
+    {
+      "id": 110,
+      "coords": [
+        150,
+        582,
+        290,
+        582
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        220.0,
+        502.0
+      ]
+    },
+    {
+      "id": 111,
+      "coords": [
+        150,
+        422,
+        150,
+        582
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        220.0,
+        502.0
+      ]
+    },
+    {
+      "id": 112,
+      "coords": [
+        458,
+        150,
+        603,
+        150
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        530.5,
+        286.0
+      ]
+    },
+    {
+      "id": 113,
+      "coords": [
+        603,
+        150,
+        603,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        530.5,
+        286.0
+      ]
+    },
+    {
+      "id": 114,
+      "coords": [
+        458,
+        422,
+        603,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        530.5,
+        286.0
+      ]
+    },
+    {
+      "id": 115,
+      "coords": [
+        249,
+        582,
+        393,
+        582
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        321.0,
+        666.0
+      ]
+    },
+    {
+      "id": 116,
+      "coords": [
+        393,
+        582,
+        393,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        321.0,
+        666.0
+      ]
+    },
+    {
+      "id": 117,
+      "coords": [
+        249,
+        750,
+        393,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        321.0,
+        666.0
+      ]
+    },
+    {
+      "id": 118,
+      "coords": [
+        577,
+        596,
+        750,
+        596
+      ],
+      "is_shared": true,
+      "has_opening": false,
+      "room_center": [
+        663.5,
+        673.0
+      ]
+    },
+    {
+      "id": 119,
+      "coords": [
+        750,
+        596,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        663.5,
+        673.0
+      ]
+    },
+    {
+      "id": 120,
+      "coords": [
+        577,
+        750,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        663.5,
+        673.0
+      ]
+    },
+    {
+      "id": 121,
+      "coords": [
+        577,
+        596,
+        577,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        663.5,
+        673.0
+      ]
+    },
+    {
+      "id": 122,
+      "coords": [
+        393,
+        605,
+        577,
+        605
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        485.0,
+        677.5
+      ]
+    },
+    {
+      "id": 123,
+      "coords": [
+        577,
+        605,
+        577,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        485.0,
+        677.5
+      ]
+    },
+    {
+      "id": 124,
+      "coords": [
+        393,
+        750,
+        577,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        485.0,
+        677.5
+      ]
+    },
+    {
+      "id": 125,
+      "coords": [
+        393,
+        605,
+        393,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        485.0,
+        677.5
+      ]
+    },
+    {
+      "id": 126,
+      "coords": [
+        290,
+        422,
+        393,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        341.5,
+        502.0
+      ]
+    },
+    {
+      "id": 127,
+      "coords": [
+        393,
+        422,
+        393,
+        582
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        341.5,
+        502.0
+      ]
+    },
+    {
+      "id": 128,
+      "coords": [
+        290,
+        582,
+        393,
+        582
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        341.5,
+        502.0
+      ]
+    },
+    {
+      "id": 129,
+      "coords": [
+        577,
+        422,
+        750,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        663.5,
+        509.0
+      ]
+    },
+    {
+      "id": 130,
+      "coords": [
+        750,
+        422,
+        750,
+        596
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        663.5,
+        509.0
+      ]
+    },
+    {
+      "id": 131,
+      "coords": [
+        577,
+        422,
+        577,
+        596
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        663.5,
+        509.0
+      ]
+    },
+    {
+      "id": 132,
+      "coords": [
+        393,
+        422,
+        577,
+        422
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        485.0,
+        513.5
+      ]
+    },
+    {
+      "id": 133,
+      "coords": [
+        577,
+        422,
+        577,
+        605
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        485.0,
+        513.5
+      ]
+    },
+    {
+      "id": 134,
+      "coords": [
+        393,
+        422,
+        393,
+        605
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        485.0,
+        513.5
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "id": 2000,
+      "wall_id": 100,
+      "coords": [
+        348,
+        150,
+        423,
+        150
+      ],
+      "length": 75
+    },
+    {
+      "id": 2001,
+      "wall_id": 102,
+      "coords": [
+        370,
+        422,
+        400,
+        422
+      ],
+      "length": 30
+    },
+    {
+      "id": 2002,
+      "wall_id": 104,
+      "coords": [
+        162,
+        582,
+        237,
+        582
+      ],
+      "length": 75
+    },
+    {
+      "id": 2003,
+      "wall_id": 108,
+      "coords": [
+        197,
+        422,
+        242,
+        422
+      ],
+      "length": 45
+    },
+    {
+      "id": 2004,
+      "wall_id": 110,
+      "coords": [
+        175,
+        582,
+        265,
+        582
+      ],
+      "length": 90
+    },
+    {
+      "id": 2005,
+      "wall_id": 113,
+      "coords": [
+        603,
+        271,
+        603,
+        301
+      ],
+      "length": 30
+    },
+    {
+      "id": 2006,
+      "wall_id": 115,
+      "coords": [
+        306,
+        582,
+        336,
+        582
+      ],
+      "length": 30
+    },
+    {
+      "id": 2007,
+      "wall_id": 116,
+      "coords": [
+        393,
+        636,
+        393,
+        696
+      ],
+      "length": 60
+    },
+    {
+      "id": 2008,
+      "wall_id": 117,
+      "coords": [
+        298,
+        750,
+        343,
+        750
+      ],
+      "length": 45
+    },
+    {
+      "id": 2009,
+      "wall_id": 124,
+      "coords": [
+        455,
+        750,
+        515,
+        750
+      ],
+      "length": 60
+    },
+    {
+      "id": 2010,
+      "wall_id": 126,
+      "coords": [
+        311,
+        422,
+        371,
+        422
+      ],
+      "length": 60
+    },
+    {
+      "id": 2011,
+      "wall_id": 127,
+      "coords": [
+        393,
+        487,
+        393,
+        517
+      ],
+      "length": 30
+    },
+    {
+      "id": 2012,
+      "wall_id": 128,
+      "coords": [
+        326,
+        582,
+        356,
+        582
+      ],
+      "length": 30
+    },
+    {
+      "id": 2013,
+      "wall_id": 129,
+      "coords": [
+        648,
+        422,
+        678,
+        422
+      ],
+      "length": 30
+    },
+    {
+      "id": 2014,
+      "wall_id": 130,
+      "coords": [
+        750,
+        494,
+        750,
+        524
+      ],
+      "length": 30
+    },
+    {
+      "id": 2015,
+      "wall_id": 132,
+      "coords": [
+        455,
+        422,
+        515,
+        422
+      ],
+      "length": 60
+    },
+    {
+      "id": 2016,
+      "wall_id": 133,
+      "coords": [
+        577,
+        476,
+        577,
+        551
+      ],
+      "length": 75
+    }
+  ],
+  "dimensions": [
+    {
+      "id": 1,
+      "val": "2720 mm",
+      "position": "inline",
+      "bbox": [
+        270,
+        581,
+        284,
+        647
+      ],
+      "dim_line": [
+        277,
+        150,
+        277,
+        422
+      ],
+      "wall_id": 103
+    },
+    {
+      "id": 2,
+      "val": "990 mm",
+      "position": "inline",
+      "bbox": [
+        170,
+        351,
+        228,
+        365
+      ],
+      "dim_line": [
+        150,
+        542,
+        249,
+        542
+      ],
+      "wall_id": 104
+    },
+    {
+      "id": 3,
+      "val": "1680 mm",
+      "position": "inline",
+      "bbox": [
+        105,
+        201,
+        119,
+        267
+      ],
+      "dim_line": [
+        112,
+        582,
+        112,
+        750
+      ],
+      "wall_id": 107
+    },
+    {
+      "id": 4,
+      "val": "1400 mm",
+      "position": "below",
+      "bbox": [
+        186,
+        521,
+        253,
+        535
+      ],
+      "dim_line": [
+        150,
+        381,
+        290,
+        381
+      ],
+      "wall_id": 108
+    },
+    {
+      "id": 5,
+      "val": "1600 mm",
+      "position": "above",
+      "bbox": [
+        98,
+        365,
+        112,
+        431
+      ],
+      "dim_line": [
+        114,
+        422,
+        114,
+        582
+      ],
+      "wall_id": 111
+    },
+    {
+      "id": 6,
+      "val": "1450 mm",
+      "position": "above",
+      "bbox": [
+        497,
+        767,
+        563,
+        781
+      ],
+      "dim_line": [
+        458,
+        117,
+        603,
+        117
+      ],
+      "wall_id": 112
+    },
+    {
+      "id": 7,
+      "val": "2720 mm",
+      "position": "inline",
+      "bbox": [
+        631,
+        581,
+        645,
+        647
+      ],
+      "dim_line": [
+        638,
+        150,
+        638,
+        422
+      ],
+      "wall_id": 113
+    },
+    {
+      "id": 8,
+      "val": "1440 mm",
+      "position": "inline",
+      "bbox": [
+        287,
+        104,
+        354,
+        118
+      ],
+      "dim_line": [
+        249,
+        789,
+        393,
+        789
+      ],
+      "wall_id": 117
+    },
+    {
+      "id": 9,
+      "val": "1540 mm",
+      "position": "inline",
+      "bbox": [
+        780,
+        193,
+        794,
+        260
+      ],
+      "dim_line": [
+        787,
+        596,
+        787,
+        750
+      ],
+      "wall_id": 119
+    },
+    {
+      "id": 10,
+      "val": "1840 mm",
+      "position": "below",
+      "bbox": [
+        451,
+        115,
+        518,
+        129
+      ],
+      "dim_line": [
+        393,
+        787,
+        577,
+        787
+      ],
+      "wall_id": 124
+    },
+    {
+      "id": 11,
+      "val": "1450 mm",
+      "position": "inline",
+      "bbox": [
+        354,
+        189,
+        368,
+        255
+      ],
+      "dim_line": [
+        361,
+        605,
+        361,
+        750
+      ],
+      "wall_id": 125
+    },
+    {
+      "id": 12,
+      "val": "1740 mm",
+      "position": "below",
+      "bbox": [
+        787,
+        357,
+        801,
+        424
+      ],
+      "dim_line": [
+        785,
+        422,
+        785,
+        596
+      ],
+      "wall_id": 130
+    }
+  ]
+}

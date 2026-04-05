@@ -1,0 +1,215 @@
+{
+  "image_file": "synthetic_plan_2.jpg",
+  "walls": [
+    {
+      "id": 100,
+      "coords": [
+        150,
+        150,
+        750,
+        150
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        276.0
+      ]
+    },
+    {
+      "id": 101,
+      "coords": [
+        750,
+        150,
+        750,
+        402
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        276.0
+      ]
+    },
+    {
+      "id": 102,
+      "coords": [
+        150,
+        402,
+        750,
+        402
+      ],
+      "is_shared": true,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        276.0
+      ]
+    },
+    {
+      "id": 103,
+      "coords": [
+        150,
+        150,
+        150,
+        402
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        276.0
+      ]
+    },
+    {
+      "id": 104,
+      "coords": [
+        750,
+        402,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        576.0
+      ]
+    },
+    {
+      "id": 105,
+      "coords": [
+        150,
+        750,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        576.0
+      ]
+    },
+    {
+      "id": 106,
+      "coords": [
+        150,
+        402,
+        150,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        576.0
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "id": 2000,
+      "wall_id": 101,
+      "coords": [
+        750,
+        231,
+        750,
+        321
+      ],
+      "length": 90
+    }
+  ],
+  "dimensions": [
+    {
+      "id": 1,
+      "val": "0.8m",
+      "position": "below",
+      "bbox": [
+        795,
+        691,
+        810,
+        727
+      ],
+      "dim_line": [
+        794,
+        150,
+        794,
+        231
+      ],
+      "wall_id": 101
+    },
+    {
+      "id": 2,
+      "val": "0.9m",
+      "position": "inline",
+      "bbox": [
+        786,
+        605,
+        801,
+        642
+      ],
+      "dim_line": [
+        794,
+        231,
+        794,
+        321
+      ],
+      "window_id": 2000
+    },
+    {
+      "id": 3,
+      "val": "0.8m",
+      "position": "inline",
+      "bbox": [
+        786,
+        520,
+        801,
+        556
+      ],
+      "dim_line": [
+        794,
+        321,
+        794,
+        402
+      ],
+      "wall_id": 101
+    },
+    {
+      "id": 4,
+      "val": "2.5m",
+      "position": "below",
+      "bbox": [
+        101,
+        605,
+        116,
+        642
+      ],
+      "dim_line": [
+        100,
+        150,
+        100,
+        402
+      ],
+      "wall_id": 103
+    },
+    {
+      "id": 5,
+      "val": "3.5m",
+      "position": "inline",
+      "bbox": [
+        92,
+        305,
+        107,
+        342
+      ],
+      "dim_line": [
+        100,
+        402,
+        100,
+        750
+      ],
+      "wall_id": 106
+    }
+  ]
+}

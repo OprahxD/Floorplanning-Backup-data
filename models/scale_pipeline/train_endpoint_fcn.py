@@ -16,14 +16,13 @@ from utils.dataset import FloorplanHeatmapDataset
 
 
 # --- CONFIGURATION ---
-DATA_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\wallDimensionProject\data\synthetic_dataset\images"       # Folder with Input PNGs
-HEATMAP_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\wallDimensionProject\data\labels_heatmap"      # Folder with Target Heatmap PNGs
+DATA_DIR = "/home/oprah/Desktop/wallDimensionProject/Dataset/images"       # Folder with Input PNGs
+HEATMAP_DIR = "/home/oprah/Desktop/wallDimensionProject/data/labels_heatmap"      # Folder with Target Heatmap PNGs
 BATCH_SIZE = 1
 LEARNING_RATE = 1e-3
 EPOCHS = 5
 
-import torch
-import torch.nn as nn
+
 
 class EndpointFCN(nn.Module):
     def __init__(self):

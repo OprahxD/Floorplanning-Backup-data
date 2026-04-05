@@ -1,0 +1,354 @@
+{
+  "image": "/home/oprah/Desktop/wallDimensionProject/Dataset/images/synthetic_plan_6.jpg",
+  "scale_px_per_unit": 10.496899,
+  "unit_per_px": 0.095266,
+  "n_inliers": 23,
+  "n_outliers": 1,
+  "dimensions": [
+    {
+      "line": [
+        [
+          267,
+          85
+        ],
+        [
+          419,
+          85
+        ]
+      ],
+      "px_length": 152.0,
+      "text_value": 400.0,
+      "real_dimension": 14.48
+    },
+    {
+      "line": [
+        [
+          415,
+          341
+        ],
+        [
+          415,
+          427
+        ]
+      ],
+      "px_length": 86.0,
+      "text_value": 750.0,
+      "real_dimension": 8.193
+    },
+    {
+      "line": [
+        [
+          200,
+          310
+        ],
+        [
+          220,
+          310
+        ]
+      ],
+      "px_length": 20.0,
+      "text_value": 1590.0,
+      "real_dimension": 1.905
+    },
+    {
+      "line": [
+        [
+          244,
+          310
+        ],
+        [
+          244,
+          344
+        ]
+      ],
+      "px_length": 34.0,
+      "text_value": 3.0,
+      "real_dimension": 3.239
+    },
+    {
+      "line": [
+        [
+          375,
+          231
+        ],
+        [
+          370,
+          392
+        ]
+      ],
+      "px_length": 161.08,
+      "text_value": 3.0,
+      "real_dimension": 15.345
+    },
+    {
+      "line": [
+        [
+          132,
+          310
+        ],
+        [
+          240,
+          310
+        ]
+      ],
+      "px_length": 108.0,
+      "text_value": 2550.0,
+      "real_dimension": 10.289
+    },
+    {
+      "line": [
+        [
+          92,
+          310
+        ],
+        [
+          112,
+          310
+        ]
+      ],
+      "px_length": 20.0,
+      "text_value": 3.0,
+      "real_dimension": 1.905
+    },
+    {
+      "line": [
+        [
+          211,
+          427
+        ],
+        [
+          247,
+          427
+        ]
+      ],
+      "px_length": 36.0,
+      "text_value": 900.0,
+      "real_dimension": 3.43
+    },
+    {
+      "line": [
+        [
+          64,
+          234
+        ],
+        [
+          66,
+          278
+        ]
+      ],
+      "px_length": 44.05,
+      "text_value": 2550.0,
+      "real_dimension": 4.196
+    },
+    {
+      "line": [
+        [
+          195,
+          427
+        ],
+        [
+          411,
+          427
+        ]
+      ],
+      "px_length": 216.0,
+      "text_value": 340.0,
+      "real_dimension": 20.578
+    },
+    {
+      "line": [
+        [
+          371,
+          341
+        ],
+        [
+          403,
+          341
+        ]
+      ],
+      "px_length": 32.0,
+      "text_value": 1250.0,
+      "real_dimension": 3.049
+    },
+    {
+      "line": [
+        [
+          426,
+          60
+        ],
+        [
+          178,
+          64
+        ]
+      ],
+      "px_length": 248.03,
+      "text_value": 710.0,
+      "real_dimension": 23.629
+    },
+    {
+      "line": [
+        [
+          323,
+          427
+        ],
+        [
+          343,
+          427
+        ]
+      ],
+      "px_length": 20.0,
+      "text_value": 1400.0,
+      "real_dimension": 1.905
+    },
+    {
+      "line": [
+        [
+          283,
+          427
+        ],
+        [
+          303,
+          427
+        ]
+      ],
+      "px_length": 20.0,
+      "text_value": 3210.0,
+      "real_dimension": 1.905
+    },
+    {
+      "line": [
+        [
+          20,
+          152
+        ],
+        [
+          20,
+          432
+        ]
+      ],
+      "px_length": 280.0,
+      "text_value": 550.0,
+      "real_dimension": 26.675
+    },
+    {
+      "line": [
+        [
+          419,
+          341
+        ],
+        [
+          419,
+          427
+        ]
+      ],
+      "px_length": 86.0,
+      "text_value": 3.0,
+      "real_dimension": 8.193
+    },
+    {
+      "line": [
+        [
+          379,
+          231
+        ],
+        [
+          417,
+          231
+        ]
+      ],
+      "px_length": 38.0,
+      "text_value": 1730.0,
+      "real_dimension": 3.62
+    },
+    {
+      "line": [
+        [
+          199,
+          427
+        ],
+        [
+          407,
+          427
+        ]
+      ],
+      "px_length": 208.0,
+      "text_value": 8.0,
+      "real_dimension": 19.815
+    },
+    {
+      "line": [
+        [
+          272,
+          22
+        ],
+        [
+          272,
+          254
+        ]
+      ],
+      "px_length": 232.0,
+      "text_value": 8.0,
+      "real_dimension": 22.102
+    },
+    {
+      "line": [
+        [
+          350,
+          182
+        ],
+        [
+          350,
+          202
+        ]
+      ],
+      "px_length": 20.0,
+      "text_value": 8.0,
+      "real_dimension": 1.905
+    },
+    {
+      "line": [
+        [
+          203,
+          427
+        ],
+        [
+          403,
+          427
+        ]
+      ],
+      "px_length": 200.0,
+      "text_value": 3.0,
+      "real_dimension": 19.053
+    },
+    {
+      "line": [
+        [
+          379,
+          427
+        ],
+        [
+          399,
+          427
+        ]
+      ],
+      "px_length": 20.0,
+      "text_value": 300.0,
+      "real_dimension": 1.905
+    },
+    {
+      "line": [
+        [
+          207,
+          427
+        ],
+        [
+          251,
+          427
+        ]
+      ],
+      "px_length": 44.0,
+      "text_value": 3.0,
+      "real_dimension": 4.192
+    }
+  ]
+}

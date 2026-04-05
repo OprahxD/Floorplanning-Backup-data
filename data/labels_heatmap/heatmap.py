@@ -85,8 +85,8 @@ def process_scale_calibration(input_dir, output_dir, target_size=(512, 512)):
 
 # --- VERIFICATION ---
 if __name__ == "__main__":
-    IN_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\wallDimensionProject\data\synthetic_dataset"
-    OUT_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\wallDimensionProject\data\labels_heatmap"
+    IN_DIR = "/home/oprah/Desktop/wallDimensionProject/Dataset"
+    OUT_DIR = "/home/oprah/Desktop/wallDimensionProject/data/labels_heatmap"
     
     process_scale_calibration(IN_DIR, OUT_DIR, target_size=(512, 512))
     

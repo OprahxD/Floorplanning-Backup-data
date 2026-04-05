@@ -14,9 +14,9 @@ from utils.endpoint_fcn import EndpointFCN
 from utils.dataset import FloorplanHeatmapDataset
 
 # --- CONFIGURATION ---
-MODEL_PATH = r"C:\Users\shres\OneDrive\Desktop\Python\endpoint_fcn_final.pth"  # Replace with your latest checkpoint
-DATA_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\wallDimensionProject\data\synthetic_dataset\images"
-HEATMAP_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\wallDimensionProject\data\labels_heatmap"
+MODEL_PATH = "/home/oprah/Desktop/wallDimensionProject/models/scale_pipeline/endpoint_fcn_final.pth"  # Replace with your latest checkpoint
+DATA_DIR = "/home/oprah/Desktop/wallDimensionProject/Dataset/images"
+HEATMAP_DIR = "/home/oprah/Desktop/wallDimensionProject/data/labels_heatmap"
 
 def visualize_prediction(model_path, img_index=0):
     # 1. Setup Device

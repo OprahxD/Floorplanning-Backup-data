@@ -5,7 +5,7 @@ import os
 from sklearn.cluster import KMeans
 
 # --- CONFIGURATION ---
-LABEL_DIR = "../../data/synthetic_labels/"  # Where your JSONs are
+LABEL_DIR = "../../Dataset/jsons/"  # Where your JSONs are
 NUM_ANCHORS = 5                             # Paper specifically requires 5 [cite: 289]
 IMAGE_SIZE = 608                            # Standardizing to the testing size [cite: 425]
 

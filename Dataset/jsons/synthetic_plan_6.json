@@ -1,0 +1,1381 @@
+{
+  "image_file": "synthetic_plan_6.jpg",
+  "walls": [
+    {
+      "id": 100,
+      "coords": [
+        332,
+        150,
+        471,
+        150
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        401.5,
+        252.5
+      ]
+    },
+    {
+      "id": 101,
+      "coords": [
+        471,
+        150,
+        471,
+        355
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        401.5,
+        252.5
+      ]
+    },
+    {
+      "id": 102,
+      "coords": [
+        332,
+        355,
+        471,
+        355
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        401.5,
+        252.5
+      ]
+    },
+    {
+      "id": 103,
+      "coords": [
+        332,
+        150,
+        332,
+        355
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        401.5,
+        252.5
+      ]
+    },
+    {
+      "id": 104,
+      "coords": [
+        150,
+        355,
+        471,
+        355
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        310.5,
+        425.0
+      ]
+    },
+    {
+      "id": 105,
+      "coords": [
+        471,
+        355,
+        471,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        310.5,
+        425.0
+      ]
+    },
+    {
+      "id": 106,
+      "coords": [
+        150,
+        495,
+        471,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        310.5,
+        425.0
+      ]
+    },
+    {
+      "id": 107,
+      "coords": [
+        150,
+        355,
+        150,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        310.5,
+        425.0
+      ]
+    },
+    {
+      "id": 108,
+      "coords": [
+        150,
+        495,
+        309,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        229.5,
+        622.5
+      ]
+    },
+    {
+      "id": 109,
+      "coords": [
+        309,
+        495,
+        309,
+        750
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        229.5,
+        622.5
+      ]
+    },
+    {
+      "id": 110,
+      "coords": [
+        150,
+        750,
+        309,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        229.5,
+        622.5
+      ]
+    },
+    {
+      "id": 111,
+      "coords": [
+        150,
+        495,
+        150,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        229.5,
+        622.5
+      ]
+    },
+    {
+      "id": 112,
+      "coords": [
+        471,
+        150,
+        750,
+        150
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        610.5,
+        225.0
+      ]
+    },
+    {
+      "id": 113,
+      "coords": [
+        750,
+        150,
+        750,
+        300
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        610.5,
+        225.0
+      ]
+    },
+    {
+      "id": 114,
+      "coords": [
+        471,
+        300,
+        750,
+        300
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        610.5,
+        225.0
+      ]
+    },
+    {
+      "id": 115,
+      "coords": [
+        471,
+        150,
+        471,
+        300
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        610.5,
+        225.0
+      ]
+    },
+    {
+      "id": 116,
+      "coords": [
+        610,
+        300,
+        750,
+        300
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        680.0,
+        397.5
+      ]
+    },
+    {
+      "id": 117,
+      "coords": [
+        750,
+        300,
+        750,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        680.0,
+        397.5
+      ]
+    },
+    {
+      "id": 118,
+      "coords": [
+        610,
+        495,
+        750,
+        495
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        680.0,
+        397.5
+      ]
+    },
+    {
+      "id": 119,
+      "coords": [
+        610,
+        300,
+        610,
+        495
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        680.0,
+        397.5
+      ]
+    },
+    {
+      "id": 120,
+      "coords": [
+        434,
+        643,
+        607,
+        643
+      ],
+      "is_shared": true,
+      "has_opening": false,
+      "room_center": [
+        520.5,
+        696.5
+      ]
+    },
+    {
+      "id": 121,
+      "coords": [
+        607,
+        643,
+        607,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        520.5,
+        696.5
+      ]
+    },
+    {
+      "id": 122,
+      "coords": [
+        434,
+        750,
+        607,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        520.5,
+        696.5
+      ]
+    },
+    {
+      "id": 123,
+      "coords": [
+        434,
+        643,
+        434,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        520.5,
+        696.5
+      ]
+    },
+    {
+      "id": 124,
+      "coords": [
+        750,
+        495,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        678.5,
+        622.5
+      ]
+    },
+    {
+      "id": 125,
+      "coords": [
+        607,
+        750,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        678.5,
+        622.5
+      ]
+    },
+    {
+      "id": 126,
+      "coords": [
+        607,
+        495,
+        607,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        678.5,
+        622.5
+      ]
+    },
+    {
+      "id": 127,
+      "coords": [
+        471,
+        300,
+        610,
+        300
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        540.5,
+        397.5
+      ]
+    },
+    {
+      "id": 128,
+      "coords": [
+        471,
+        495,
+        610,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        540.5,
+        397.5
+      ]
+    },
+    {
+      "id": 129,
+      "coords": [
+        471,
+        300,
+        471,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        540.5,
+        397.5
+      ]
+    },
+    {
+      "id": 130,
+      "coords": [
+        309,
+        495,
+        434,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        371.5,
+        622.5
+      ]
+    },
+    {
+      "id": 131,
+      "coords": [
+        434,
+        495,
+        434,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        371.5,
+        622.5
+      ]
+    },
+    {
+      "id": 132,
+      "coords": [
+        309,
+        750,
+        434,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        371.5,
+        622.5
+      ]
+    },
+    {
+      "id": 133,
+      "coords": [
+        434,
+        495,
+        607,
+        495
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        520.5,
+        569.0
+      ]
+    },
+    {
+      "id": 134,
+      "coords": [
+        607,
+        495,
+        607,
+        643
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        520.5,
+        569.0
+      ]
+    },
+    {
+      "id": 135,
+      "coords": [
+        434,
+        495,
+        434,
+        643
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        520.5,
+        569.0
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "id": 2000,
+      "wall_id": 100,
+      "coords": [
+        379,
+        150,
+        424,
+        150
+      ],
+      "length": 45
+    },
+    {
+      "id": 2001,
+      "wall_id": 101,
+      "coords": [
+        471,
+        230,
+        471,
+        275
+      ],
+      "length": 45
+    },
+    {
+      "id": 2002,
+      "wall_id": 106,
+      "coords": [
+        265,
+        495,
+        355,
+        495
+      ],
+      "length": 90
+    },
+    {
+      "id": 2003,
+      "wall_id": 107,
+      "coords": [
+        150,
+        410,
+        150,
+        440
+      ],
+      "length": 30
+    },
+    {
+      "id": 2004,
+      "wall_id": 108,
+      "coords": [
+        184,
+        495,
+        274,
+        495
+      ],
+      "length": 90
+    },
+    {
+      "id": 2005,
+      "wall_id": 110,
+      "coords": [
+        199,
+        750,
+        259,
+        750
+      ],
+      "length": 60
+    },
+    {
+      "id": 2006,
+      "wall_id": 113,
+      "coords": [
+        750,
+        202,
+        750,
+        247
+      ],
+      "length": 45
+    },
+    {
+      "id": 2007,
+      "wall_id": 114,
+      "coords": [
+        595,
+        300,
+        625,
+        300
+      ],
+      "length": 30
+    },
+    {
+      "id": 2008,
+      "wall_id": 117,
+      "coords": [
+        750,
+        367,
+        750,
+        427
+      ],
+      "length": 60
+    },
+    {
+      "id": 2009,
+      "wall_id": 122,
+      "coords": [
+        505,
+        750,
+        535,
+        750
+      ],
+      "length": 30
+    },
+    {
+      "id": 2010,
+      "wall_id": 123,
+      "coords": [
+        434,
+        674,
+        434,
+        719
+      ],
+      "length": 45
+    },
+    {
+      "id": 2011,
+      "wall_id": 124,
+      "coords": [
+        750,
+        577,
+        750,
+        667
+      ],
+      "length": 90
+    },
+    {
+      "id": 2012,
+      "wall_id": 125,
+      "coords": [
+        656,
+        750,
+        701,
+        750
+      ],
+      "length": 45
+    },
+    {
+      "id": 2013,
+      "wall_id": 127,
+      "coords": [
+        503,
+        300,
+        578,
+        300
+      ],
+      "length": 75
+    },
+    {
+      "id": 2014,
+      "wall_id": 128,
+      "coords": [
+        518,
+        495,
+        563,
+        495
+      ],
+      "length": 45
+    },
+    {
+      "id": 2015,
+      "wall_id": 129,
+      "coords": [
+        471,
+        375,
+        471,
+        420
+      ],
+      "length": 45
+    },
+    {
+      "id": 2016,
+      "wall_id": 130,
+      "coords": [
+        334,
+        495,
+        409,
+        495
+      ],
+      "length": 75
+    },
+    {
+      "id": 2017,
+      "wall_id": 132,
+      "coords": [
+        349,
+        750,
+        394,
+        750
+      ],
+      "length": 45
+    },
+    {
+      "id": 2018,
+      "wall_id": 133,
+      "coords": [
+        505,
+        495,
+        535,
+        495
+      ],
+      "length": 30
+    },
+    {
+      "id": 2019,
+      "wall_id": 134,
+      "coords": [
+        607,
+        531,
+        607,
+        606
+      ],
+      "length": 75
+    }
+  ],
+  "dimensions": [
+    {
+      "id": 1,
+      "val": "470",
+      "position": "above",
+      "bbox": [
+        341,
+        785,
+        369,
+        800
+      ],
+      "dim_line": [
+        332,
+        98,
+        379,
+        98
+      ],
+      "wall_id": 100
+    },
+    {
+      "id": 2,
+      "val": "450",
+      "position": "inline",
+      "bbox": [
+        387,
+        794,
+        415,
+        809
+      ],
+      "dim_line": [
+        379,
+        98,
+        424,
+        98
+      ],
+      "window_id": 2000
+    },
+    {
+      "id": 3,
+      "val": "470",
+      "position": "below",
+      "bbox": [
+        433,
+        803,
+        461,
+        818
+      ],
+      "dim_line": [
+        424,
+        98,
+        471,
+        98
+      ],
+      "wall_id": 100
+    },
+    {
+      "id": 4,
+      "val": "2050",
+      "position": "below",
+      "bbox": [
+        279,
+        629,
+        294,
+        665
+      ],
+      "dim_line": [
+        278,
+        150,
+        278,
+        355
+      ],
+      "wall_id": 103
+    },
+    {
+      "id": 5,
+      "val": "550",
+      "position": "inline",
+      "bbox": [
+        92,
+        503,
+        107,
+        531
+      ],
+      "dim_line": [
+        100,
+        355,
+        100,
+        410
+      ],
+      "wall_id": 107
+    },
+    {
+      "id": 6,
+      "val": "300",
+      "position": "inline",
+      "bbox": [
+        92,
+        461,
+        107,
+        488
+      ],
+      "dim_line": [
+        100,
+        410,
+        100,
+        440
+      ],
+      "window_id": 2003
+    },
+    {
+      "id": 7,
+      "val": "550",
+      "position": "above",
+      "bbox": [
+        83,
+        418,
+        98,
+        446
+      ],
+      "dim_line": [
+        100,
+        440,
+        100,
+        495
+      ],
+      "wall_id": 107
+    },
+    {
+      "id": 8,
+      "val": "340",
+      "position": "inline",
+      "bbox": [
+        153,
+        452,
+        180,
+        467
+      ],
+      "dim_line": [
+        150,
+        440,
+        184,
+        440
+      ],
+      "wall_id": 108
+    },
+    {
+      "id": 9,
+      "val": "900",
+      "position": "inline",
+      "bbox": [
+        215,
+        452,
+        242,
+        467
+      ],
+      "dim_line": [
+        184,
+        440,
+        274,
+        440
+      ],
+      "window_id": 2004
+    },
+    {
+      "id": 10,
+      "val": "350",
+      "position": "above",
+      "bbox": [
+        277,
+        443,
+        305,
+        458
+      ],
+      "dim_line": [
+        274,
+        440,
+        309,
+        440
+      ],
+      "wall_id": 108
+    },
+    {
+      "id": 11,
+      "val": "2550",
+      "position": "below",
+      "bbox": [
+        95,
+        259,
+        110,
+        295
+      ],
+      "dim_line": [
+        94,
+        495,
+        94,
+        750
+      ],
+      "wall_id": 111
+    },
+    {
+      "id": 12,
+      "val": "2790",
+      "position": "above",
+      "bbox": [
+        592,
+        792,
+        628,
+        807
+      ],
+      "dim_line": [
+        471,
+        91,
+        750,
+        91
+      ],
+      "wall_id": 112
+    },
+    {
+      "id": 13,
+      "val": "1240",
+      "position": "above",
+      "bbox": [
+        514,
+        523,
+        551,
+        538
+      ],
+      "dim_line": [
+        471,
+        360,
+        595,
+        360
+      ],
+      "wall_id": 114
+    },
+    {
+      "id": 14,
+      "val": "1250",
+      "position": "inline",
+      "bbox": [
+        669,
+        532,
+        705,
+        547
+      ],
+      "dim_line": [
+        625,
+        360,
+        750,
+        360
+      ],
+      "wall_id": 114
+    },
+    {
+      "id": 15,
+      "val": "1500",
+      "position": "inline",
+      "bbox": [
+        408,
+        656,
+        423,
+        693
+      ],
+      "dim_line": [
+        416,
+        150,
+        416,
+        300
+      ],
+      "wall_id": 115
+    },
+    {
+      "id": 16,
+      "val": "1400",
+      "position": "inline",
+      "bbox": [
+        661,
+        643,
+        698,
+        658
+      ],
+      "dim_line": [
+        610,
+        249,
+        750,
+        249
+      ],
+      "wall_id": 116
+    },
+    {
+      "id": 17,
+      "val": "710",
+      "position": "inline",
+      "bbox": [
+        455,
+        84,
+        483,
+        99
+      ],
+      "dim_line": [
+        434,
+        808,
+        505,
+        808
+      ],
+      "wall_id": 122
+    },
+    {
+      "id": 18,
+      "val": "300",
+      "position": "above",
+      "bbox": [
+        506,
+        75,
+        533,
+        90
+      ],
+      "dim_line": [
+        505,
+        808,
+        535,
+        808
+      ],
+      "window_id": 2009
+    },
+    {
+      "id": 19,
+      "val": "720",
+      "position": "above",
+      "bbox": [
+        557,
+        75,
+        584,
+        90
+      ],
+      "dim_line": [
+        535,
+        808,
+        607,
+        808
+      ],
+      "wall_id": 122
+    },
+    {
+      "id": 20,
+      "val": "490",
+      "position": "below",
+      "bbox": [
+        617,
+        93,
+        645,
+        108
+      ],
+      "dim_line": [
+        607,
+        808,
+        656,
+        808
+      ],
+      "wall_id": 125
+    },
+    {
+      "id": 21,
+      "val": "450",
+      "position": "below",
+      "bbox": [
+        664,
+        93,
+        692,
+        108
+      ],
+      "dim_line": [
+        656,
+        808,
+        701,
+        808
+      ],
+      "window_id": 2012
+    },
+    {
+      "id": 22,
+      "val": "490",
+      "position": "below",
+      "bbox": [
+        711,
+        93,
+        739,
+        108
+      ],
+      "dim_line": [
+        701,
+        808,
+        750,
+        808
+      ],
+      "wall_id": 125
+    },
+    {
+      "id": 23,
+      "val": "320",
+      "position": "inline",
+      "bbox": [
+        473,
+        649,
+        500,
+        664
+      ],
+      "dim_line": [
+        471,
+        243,
+        503,
+        243
+      ],
+      "wall_id": 127
+    },
+    {
+      "id": 24,
+      "val": "750",
+      "position": "inline",
+      "bbox": [
+        526,
+        649,
+        554,
+        664
+      ],
+      "dim_line": [
+        503,
+        243,
+        578,
+        243
+      ],
+      "window_id": 2013
+    },
+    {
+      "id": 25,
+      "val": "320",
+      "position": "below",
+      "bbox": [
+        580,
+        658,
+        607,
+        673
+      ],
+      "dim_line": [
+        578,
+        243,
+        610,
+        243
+      ],
+      "wall_id": 127
+    },
+    {
+      "id": 26,
+      "val": "470",
+      "position": "below",
+      "bbox": [
+        480,
+        352,
+        508,
+        367
+      ],
+      "dim_line": [
+        471,
+        549,
+        518,
+        549
+      ],
+      "wall_id": 128
+    },
+    {
+      "id": 27,
+      "val": "450",
+      "position": "above",
+      "bbox": [
+        526,
+        334,
+        554,
+        349
+      ],
+      "dim_line": [
+        518,
+        549,
+        563,
+        549
+      ],
+      "window_id": 2014
+    },
+    {
+      "id": 28,
+      "val": "450",
+      "position": "below",
+      "bbox": [
+        419,
+        488,
+        434,
+        516
+      ],
+      "dim_line": [
+        418,
+        375,
+        418,
+        420
+      ],
+      "window_id": 2015
+    },
+    {
+      "id": 29,
+      "val": "750",
+      "position": "inline",
+      "bbox": [
+        410,
+        428,
+        425,
+        456
+      ],
+      "dim_line": [
+        418,
+        420,
+        418,
+        495
+      ],
+      "wall_id": 129
+    },
+    {
+      "id": 30,
+      "val": "400",
+      "position": "inline",
+      "bbox": [
+        315,
+        88,
+        342,
+        103
+      ],
+      "dim_line": [
+        309,
+        804,
+        349,
+        804
+      ],
+      "wall_id": 132
+    },
+    {
+      "id": 31,
+      "val": "450",
+      "position": "inline",
+      "bbox": [
+        357,
+        88,
+        385,
+        103
+      ],
+      "dim_line": [
+        349,
+        804,
+        394,
+        804
+      ],
+      "window_id": 2017
+    },
+    {
+      "id": 32,
+      "val": "400",
+      "position": "above",
+      "bbox": [
+        400,
+        79,
+        427,
+        94
+      ],
+      "dim_line": [
+        394,
+        804,
+        434,
+        804
+      ],
+      "wall_id": 132
+    },
+    {
+      "id": 33,
+      "val": "300",
+      "position": "inline",
+      "bbox": [
+        506,
+        451,
+        533,
+        466
+      ],
+      "dim_line": [
+        505,
+        441,
+        535,
+        441
+      ],
+      "window_id": 2018
+    },
+    {
+      "id": 34,
+      "val": "720",
+      "position": "inline",
+      "bbox": [
+        557,
+        451,
+        584,
+        466
+      ],
+      "dim_line": [
+        535,
+        441,
+        607,
+        441
+      ],
+      "wall_id": 133
+    }
+  ]
+}

@@ -57,8 +57,8 @@ def process_number_verification(input_dir, output_dir, padding=5):
 
 # --- BUILT-IN VERIFICATION ---
 if __name__ == "__main__":
-    IN_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\syntheticDataGeneration\data\dataset_consolidated"
-    OUT_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\syntheticDataGeneration\measurements\complimentary\number-verification"
+    IN_DIR = "/home/oprah/Desktop/wallDimensionProject/Dataset"
+    OUT_DIR = "/home/oprah/Desktop/wallDimensionProject/data/crops_number/output"
     
     
     # 1. Generate Data
@@ -91,3 +91,4 @@ if __name__ == "__main__":
             print("CSV is empty.")
     else:
         print("CSV file not found.")
+# claude --resume a6e3722d-c965-4f20-a177-5ef2b1271ffc 

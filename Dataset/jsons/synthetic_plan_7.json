@@ -1,0 +1,392 @@
+{
+  "image_file": "synthetic_plan_7.jpg",
+  "walls": [
+    {
+      "id": 100,
+      "coords": [
+        150,
+        150,
+        750,
+        150
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        309.5
+      ]
+    },
+    {
+      "id": 101,
+      "coords": [
+        750,
+        150,
+        750,
+        469
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        309.5
+      ]
+    },
+    {
+      "id": 102,
+      "coords": [
+        150,
+        469,
+        750,
+        469
+      ],
+      "is_shared": true,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        309.5
+      ]
+    },
+    {
+      "id": 103,
+      "coords": [
+        150,
+        150,
+        150,
+        469
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        309.5
+      ]
+    },
+    {
+      "id": 104,
+      "coords": [
+        750,
+        469,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": false,
+      "room_center": [
+        450.0,
+        609.5
+      ]
+    },
+    {
+      "id": 105,
+      "coords": [
+        150,
+        750,
+        750,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        609.5
+      ]
+    },
+    {
+      "id": 106,
+      "coords": [
+        150,
+        469,
+        150,
+        750
+      ],
+      "is_shared": false,
+      "has_opening": true,
+      "room_center": [
+        450.0,
+        609.5
+      ]
+    }
+  ],
+  "windows": [
+    {
+      "id": 2000,
+      "wall_id": 100,
+      "coords": [
+        435,
+        150,
+        465,
+        150
+      ],
+      "length": 30
+    },
+    {
+      "id": 2001,
+      "wall_id": 103,
+      "coords": [
+        150,
+        287,
+        150,
+        332
+      ],
+      "length": 45
+    },
+    {
+      "id": 2002,
+      "wall_id": 105,
+      "coords": [
+        435,
+        750,
+        465,
+        750
+      ],
+      "length": 30
+    },
+    {
+      "id": 2003,
+      "wall_id": 106,
+      "coords": [
+        150,
+        579,
+        150,
+        639
+      ],
+      "length": 60
+    }
+  ],
+  "dimensions": [
+    {
+      "id": 1,
+      "val": "112\"",
+      "position": "below",
+      "bbox": [
+        277,
+        805,
+        307,
+        818
+      ],
+      "dim_line": [
+        150,
+        97,
+        435,
+        97
+      ],
+      "wall_id": 100
+    },
+    {
+      "id": 2,
+      "val": "11\"",
+      "position": "above",
+      "bbox": [
+        439,
+        787,
+        460,
+        800
+      ],
+      "dim_line": [
+        435,
+        97,
+        465,
+        97
+      ],
+      "window_id": 2000
+    },
+    {
+      "id": 3,
+      "val": "112\"",
+      "position": "above",
+      "bbox": [
+        592,
+        787,
+        622,
+        800
+      ],
+      "dim_line": [
+        465,
+        97,
+        750,
+        97
+      ],
+      "wall_id": 100
+    },
+    {
+      "id": 4,
+      "val": "53\"",
+      "position": "inline",
+      "bbox": [
+        88,
+        670,
+        101,
+        692
+      ],
+      "dim_line": [
+        95,
+        150,
+        95,
+        287
+      ],
+      "wall_id": 103
+    },
+    {
+      "id": 5,
+      "val": "17\"",
+      "position": "above",
+      "bbox": [
+        79,
+        579,
+        92,
+        601
+      ],
+      "dim_line": [
+        95,
+        287,
+        95,
+        332
+      ],
+      "window_id": 2001
+    },
+    {
+      "id": 6,
+      "val": "53\"",
+      "position": "below",
+      "bbox": [
+        97,
+        488,
+        110,
+        510
+      ],
+      "dim_line": [
+        95,
+        332,
+        95,
+        469
+      ],
+      "wall_id": 103
+    },
+    {
+      "id": 7,
+      "val": "110\"",
+      "position": "inline",
+      "bbox": [
+        797,
+        275,
+        810,
+        305
+      ],
+      "dim_line": [
+        804,
+        469,
+        804,
+        750
+      ],
+      "wall_id": 104
+    },
+    {
+      "id": 8,
+      "val": "112\"",
+      "position": "above",
+      "bbox": [
+        277,
+        82,
+        307,
+        95
+      ],
+      "dim_line": [
+        150,
+        802,
+        435,
+        802
+      ],
+      "wall_id": 105
+    },
+    {
+      "id": 9,
+      "val": "11\"",
+      "position": "below",
+      "bbox": [
+        439,
+        100,
+        460,
+        113
+      ],
+      "dim_line": [
+        435,
+        802,
+        465,
+        802
+      ],
+      "window_id": 2002
+    },
+    {
+      "id": 10,
+      "val": "112\"",
+      "position": "inline",
+      "bbox": [
+        592,
+        91,
+        622,
+        104
+      ],
+      "dim_line": [
+        465,
+        802,
+        750,
+        802
+      ],
+      "wall_id": 105
+    },
+    {
+      "id": 11,
+      "val": "43\"",
+      "position": "below",
+      "bbox": [
+        97,
+        365,
+        110,
+        386
+      ],
+      "dim_line": [
+        95,
+        469,
+        95,
+        579
+      ],
+      "wall_id": 106
+    },
+    {
+      "id": 12,
+      "val": "23\"",
+      "position": "below",
+      "bbox": [
+        97,
+        280,
+        110,
+        301
+      ],
+      "dim_line": [
+        95,
+        579,
+        95,
+        639
+      ],
+      "window_id": 2003
+    },
+    {
+      "id": 13,
+      "val": "43\"",
+      "position": "inline",
+      "bbox": [
+        88,
+        194,
+        101,
+        216
+      ],
+      "dim_line": [
+        95,
+        639,
+        95,
+        750
+      ],
+      "wall_id": 106
+    }
+  ]
+}

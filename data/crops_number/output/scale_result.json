@@ -1,0 +1,133 @@
+{
+  "scale_px_per_unit": 8.974942,
+  "unit_per_px": 0.111421,
+  "n_inliers": 5,
+  "n_outliers": 4,
+  "final_dimensions": [
+    {
+      "line": [
+        [
+          214,
+          402
+        ],
+        [
+          374,
+          404
+        ]
+      ],
+      "px_length": 160.01,
+      "text_value": 124.0,
+      "text_raw": "124\"",
+      "text_bbox": [
+        277,
+        407,
+        301,
+        421
+      ],
+      "text_rotation": "0",
+      "distance_px": 11.06,
+      "ocr_confidence": 0.8949,
+      "real_dimension": 17.829
+    },
+    {
+      "line": [
+        [
+          334,
+          240
+        ],
+        [
+          364,
+          242
+        ]
+      ],
+      "px_length": 30.07,
+      "text_value": 72.0,
+      "text_raw": "72\"",
+      "text_bbox": [
+        347,
+        249,
+        369,
+        261
+      ],
+      "text_rotation": "0",
+      "distance_px": 13.37,
+      "ocr_confidence": 0.9858,
+      "real_dimension": 3.35
+    },
+    {
+      "line": [
+        [
+          302,
+          324
+        ],
+        [
+          302,
+          406
+        ]
+      ],
+      "px_length": 82.0,
+      "text_value": 4.0,
+      "text_raw": "4",
+      "text_bbox": [
+        276,
+        409,
+        302,
+        421
+      ],
+      "text_rotation": "90_CCW",
+      "distance_px": 15.81,
+      "ocr_confidence": 0.9244,
+      "real_dimension": 9.137
+    },
+    {
+      "line": [
+        [
+          364,
+          224
+        ],
+        [
+          364,
+          248
+        ]
+      ],
+      "px_length": 24.0,
+      "text_value": 2.0,
+      "text_raw": "2",
+      "text_bbox": [
+        378,
+        249,
+        400,
+        261
+      ],
+      "text_rotation": "90_CCW",
+      "distance_px": 25.96,
+      "ocr_confidence": 0.9527,
+      "real_dimension": 2.674
+    },
+    {
+      "line": [
+        [
+          378,
+          196
+        ],
+        [
+          378,
+          228
+        ]
+      ],
+      "px_length": 32.0,
+      "text_value": 3.0,
+      "text_raw": "3",
+      "text_bbox": [
+        379,
+        246,
+        403,
+        258
+      ],
+      "text_rotation": "90_CW",
+      "distance_px": 27.29,
+      "ocr_confidence": 0.4038,
+      "real_dimension": 3.565
+    }
+  ]
+}

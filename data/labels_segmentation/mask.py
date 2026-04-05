@@ -116,8 +116,8 @@ def process_structure_segmentation(input_dir, output_dir):
 
 # --- VERIFICATION ---
 if __name__ == "__main__":
-    IN_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\syntheticDataGeneration\data\dataset_consolidated"
-    OUT_DIR = r"C:\Users\shres\OneDrive\Desktop\Python\syntheticDataGeneration\measurements\complimentary\mask" 
+    IN_DIR = "/home/oprah/Desktop/wallDimensionProject/Dataset"
+    OUT_DIR = "/home/oprah/Desktop/wallDimensionProject/data/labels_segmentation/output"
     
     process_structure_segmentation(IN_DIR, OUT_DIR)
     

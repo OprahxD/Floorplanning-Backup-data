@@ -1,0 +1,2608 @@
+[
+  {
+    "text": "6000",
+    "numeric_value": 6000.0,
+    "digit_count": 4,
+    "confidence": 0.9969,
+    "bbox": [
+      5,
+      5,
+      37,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_0_crop_0.png"
+  },
+  {
+    "text": "6000",
+    "numeric_value": 6000.0,
+    "digit_count": 4,
+    "confidence": 0.9965,
+    "bbox": [
+      5,
+      5,
+      37,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_0_crop_1.png"
+  },
+  {
+    "text": "3320",
+    "numeric_value": 3320.0,
+    "digit_count": 4,
+    "confidence": 0.998,
+    "bbox": [
+      3,
+      3,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_0_crop_2.png"
+  },
+  {
+    "text": "109\"",
+    "numeric_value": 109.0,
+    "digit_count": 3,
+    "confidence": 0.8294,
+    "bbox": [
+      5,
+      5,
+      37,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_1_crop_0.png"
+  },
+  {
+    "text": "17\"",
+    "numeric_value": 17.0,
+    "digit_count": 2,
+    "confidence": 0.9983,
+    "bbox": [
+      5,
+      5,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_1_crop_1.png"
+  },
+  {
+    "text": "112\"",
+    "numeric_value": 112.0,
+    "digit_count": 3,
+    "confidence": 0.8422,
+    "bbox": [
+      5,
+      3,
+      37,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_1_crop_10.png"
+  },
+  {
+    "text": "-118\"",
+    "numeric_value": 118.0,
+    "digit_count": 3,
+    "confidence": 0.8009,
+    "bbox": [
+      0,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_1_crop_11.png"
+  },
+  {
+    "text": "109\"",
+    "numeric_value": 109.0,
+    "digit_count": 3,
+    "confidence": 0.6985,
+    "bbox": [
+      5,
+      3,
+      37,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_1_crop_2.png"
+  },
+  {
+    "text": "118'",
+    "numeric_value": 118.0,
+    "digit_count": 3,
+    "confidence": 0.6874,
+    "bbox": [
+      1,
+      5,
+      29,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_1_crop_3.png"
+  },
+  {
+    "text": "44\"",
+    "numeric_value": 44.0,
+    "digit_count": 2,
+    "confidence": 0.5158,
+    "bbox": [
+      3,
+      3,
+      27,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_1_crop_4.png"
+  },
+  {
+    "text": "29\"",
+    "numeric_value": 29.0,
+    "digit_count": 2,
+    "confidence": 0.8957,
+    "bbox": [
+      3,
+      3,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_1_crop_5.png"
+  },
+  {
+    "filename": "synthetic_plan_1_crop_6.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "118\"",
+    "numeric_value": 118.0,
+    "digit_count": 3,
+    "confidence": 0.9958,
+    "bbox": [
+      1,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_1_crop_7.png"
+  },
+  {
+    "text": "112\"",
+    "numeric_value": 112.0,
+    "digit_count": 3,
+    "confidence": 0.8549,
+    "bbox": [
+      5,
+      3,
+      37,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_1_crop_8.png"
+  },
+  {
+    "filename": "synthetic_plan_1_crop_9.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "14105",
+    "numeric_value": 14105.0,
+    "digit_count": 5,
+    "confidence": 0.8208,
+    "bbox": [
+      3,
+      1,
+      49,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_0.png"
+  },
+  {
+    "text": "4460",
+    "numeric_value": 4460.0,
+    "digit_count": 4,
+    "confidence": 0.9534,
+    "bbox": [
+      0,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_1.png"
+  },
+  {
+    "text": "-750",
+    "numeric_value": 750.0,
+    "digit_count": 3,
+    "confidence": 0.9876,
+    "bbox": [
+      0,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_10.png"
+  },
+  {
+    "text": "610",
+    "numeric_value": 610.0,
+    "digit_count": 3,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      3,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_11.png"
+  },
+  {
+    "text": "1780",
+    "numeric_value": 1780.0,
+    "digit_count": 4,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      1,
+      47,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_12.png"
+  },
+  {
+    "text": "610",
+    "numeric_value": 610.0,
+    "digit_count": 3,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      3,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_13.png"
+  },
+  {
+    "text": "750",
+    "numeric_value": 750.0,
+    "digit_count": 3,
+    "confidence": 0.8323,
+    "bbox": [
+      3,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_14.png"
+  },
+  {
+    "text": "6640",
+    "numeric_value": 6640.0,
+    "digit_count": 4,
+    "confidence": 0.9639,
+    "bbox": [
+      0,
+      3,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_15.png"
+  },
+  {
+    "text": "1620",
+    "numeric_value": 1620.0,
+    "digit_count": 4,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      3,
+      47,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_16.png"
+  },
+  {
+    "text": "-1180",
+    "numeric_value": 1180.0,
+    "digit_count": 4,
+    "confidence": 0.7535,
+    "bbox": [
+      0,
+      3,
+      43,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_17.png"
+  },
+  {
+    "text": "1190",
+    "numeric_value": 1190.0,
+    "digit_count": 4,
+    "confidence": 0.9974,
+    "bbox": [
+      3,
+      5,
+      43,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_18.png"
+  },
+  {
+    "text": "-1410",
+    "numeric_value": 1410.0,
+    "digit_count": 4,
+    "confidence": 0.6795,
+    "bbox": [
+      0,
+      3,
+      45,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_19.png"
+  },
+  {
+    "text": "450 =",
+    "numeric_value": 450.0,
+    "digit_count": 3,
+    "confidence": 0.6877,
+    "bbox": [
+      0,
+      0,
+      36,
+      22
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_2.png"
+  },
+  {
+    "text": "2570",
+    "numeric_value": 2570.0,
+    "digit_count": 4,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      1,
+      45,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_20.png"
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.9697,
+    "bbox": [
+      3,
+      7,
+      19,
+      37
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_3.png"
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.8513,
+    "bbox": [
+      3,
+      3,
+      19,
+      35
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_2_crop_4.png"
+  },
+  {
+    "text": "230",
+    "numeric_value": 230.0,
+    "digit_count": 3,
+    "confidence": 0.7237,
+    "bbox": [
+      1,
+      1,
+      33,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_5.png"
+  },
+  {
+    "text": "900",
+    "numeric_value": 900.0,
+    "digit_count": 3,
+    "confidence": 0.9999,
+    "bbox": [
+      1,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_6.png"
+  },
+  {
+    "text": "240",
+    "numeric_value": 240.0,
+    "digit_count": 3,
+    "confidence": 1.0,
+    "bbox": [
+      0,
+      1,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_7.png"
+  },
+  {
+    "text": "1780",
+    "numeric_value": 1780.0,
+    "digit_count": 4,
+    "confidence": 0.9999,
+    "bbox": [
+      5,
+      1,
+      47,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_2_crop_8.png"
+  },
+  {
+    "text": "610",
+    "numeric_value": 610.0,
+    "digit_count": 3,
+    "confidence": 1.0,
+    "bbox": [
+      0,
+      3,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_2_crop_9.png"
+  },
+  {
+    "text": "19 ' 8",
+    "numeric_value": 19.0,
+    "digit_count": 3,
+    "confidence": 0.792,
+    "bbox": [
+      5,
+      3,
+      45,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_3_crop_0.png"
+  },
+  {
+    "text": "0 ,b",
+    "numeric_value": 0.0,
+    "digit_count": 1,
+    "confidence": 0.365,
+    "bbox": [
+      17,
+      7,
+      45,
+      23
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_3_crop_1.png"
+  },
+  {
+    "text": "2'11",
+    "numeric_value": 211.0,
+    "digit_count": 3,
+    "confidence": 0.5795,
+    "bbox": [
+      0,
+      1,
+      41,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_3_crop_2.png"
+  },
+  {
+    "text": "0 ,b",
+    "numeric_value": 0.0,
+    "digit_count": 1,
+    "confidence": 0.3847,
+    "bbox": [
+      17,
+      7,
+      45,
+      23
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_3_crop_3.png"
+  },
+  {
+    "text": "\"9",
+    "numeric_value": 9.0,
+    "digit_count": 1,
+    "confidence": 0.9988,
+    "bbox": [
+      7,
+      7,
+      29,
+      23
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_3_crop_4.png"
+  },
+  {
+    "text": "1'11\"",
+    "numeric_value": 111.0,
+    "digit_count": 3,
+    "confidence": 0.9879,
+    "bbox": [
+      0,
+      5,
+      47,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_3_crop_5.png"
+  },
+  {
+    "text": "4' 6'",
+    "numeric_value": 4.0,
+    "digit_count": 2,
+    "confidence": 0.6262,
+    "bbox": [
+      3,
+      3,
+      33,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_3_crop_6.png"
+  },
+  {
+    "text": "\"L,8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.6965,
+    "bbox": [
+      7,
+      7,
+      47,
+      25
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_3_crop_7.png"
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.9999,
+    "bbox": [
+      3,
+      27,
+      17,
+      53
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_4_crop_0.png"
+  },
+  {
+    "text": "1840 mm",
+    "numeric_value": 1840.0,
+    "digit_count": 4,
+    "confidence": 0.9884,
+    "bbox": [
+      1,
+      3,
+      57,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_1.png"
+  },
+  {
+    "text": "1450 mm",
+    "numeric_value": 1450.0,
+    "digit_count": 4,
+    "confidence": 0.9771,
+    "bbox": [
+      3,
+      1,
+      59,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_10.png"
+  },
+  {
+    "text": "3",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.9276,
+    "bbox": [
+      5,
+      5,
+      19,
+      37
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_11.png"
+  },
+  {
+    "text": "1450 mm",
+    "numeric_value": 1450.0,
+    "digit_count": 4,
+    "confidence": 0.9649,
+    "bbox": [
+      3,
+      1,
+      59,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_12.png"
+  },
+  {
+    "text": "1500 mm",
+    "numeric_value": 1500.0,
+    "digit_count": 4,
+    "confidence": 0.9956,
+    "bbox": [
+      1,
+      3,
+      57,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_13.png"
+  },
+  {
+    "text": "1500 mm",
+    "numeric_value": 1500.0,
+    "digit_count": 4,
+    "confidence": 0.9996,
+    "bbox": [
+      1,
+      1,
+      57,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_14.png"
+  },
+  {
+    "text": "3",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.805,
+    "bbox": [
+      5,
+      35,
+      17,
+      61
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_15.png"
+  },
+  {
+    "text": "1320 mm",
+    "numeric_value": 1320.0,
+    "digit_count": 4,
+    "confidence": 0.932,
+    "bbox": [
+      1,
+      1,
+      57,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_16.png"
+  },
+  {
+    "text": "5",
+    "numeric_value": 5.0,
+    "digit_count": 1,
+    "confidence": 0.9134,
+    "bbox": [
+      5,
+      3,
+      19,
+      37
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_17.png"
+  },
+  {
+    "text": "1470 mm",
+    "numeric_value": 1470.0,
+    "digit_count": 4,
+    "confidence": 0.953,
+    "bbox": [
+      3,
+      3,
+      59,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_2.png"
+  },
+  {
+    "text": "2720 mm",
+    "numeric_value": 2720.0,
+    "digit_count": 4,
+    "confidence": 0.9845,
+    "bbox": [
+      3,
+      3,
+      61,
+      17
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_4_crop_3.png"
+  },
+  {
+    "text": "1470",
+    "numeric_value": 1470.0,
+    "digit_count": 4,
+    "confidence": 1.0,
+    "bbox": [
+      1,
+      1,
+      35,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_4.png"
+  },
+  {
+    "text": "1800 mm",
+    "numeric_value": 1800.0,
+    "digit_count": 4,
+    "confidence": 0.9879,
+    "bbox": [
+      3,
+      3,
+      61,
+      17
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_4_crop_5.png"
+  },
+  {
+    "text": "1730",
+    "numeric_value": 1730.0,
+    "digit_count": 4,
+    "confidence": 1.0,
+    "bbox": [
+      1,
+      1,
+      35,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_6.png"
+  },
+  {
+    "text": "139",
+    "numeric_value": 139.0,
+    "digit_count": 3,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      3,
+      27,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_7.png"
+  },
+  {
+    "text": "1440 mm",
+    "numeric_value": 1440.0,
+    "digit_count": 4,
+    "confidence": 0.9812,
+    "bbox": [
+      3,
+      3,
+      61,
+      17
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_4_crop_8.png"
+  },
+  {
+    "text": "1300 mm",
+    "numeric_value": 1300.0,
+    "digit_count": 4,
+    "confidence": 0.623,
+    "bbox": [
+      1,
+      1,
+      57,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_4_crop_9.png"
+  },
+  {
+    "text": "112\"",
+    "numeric_value": 112.0,
+    "digit_count": 3,
+    "confidence": 0.8996,
+    "bbox": [
+      5,
+      3,
+      41,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_5_crop_0.png"
+  },
+  {
+    "text": "11\"",
+    "numeric_value": 11.0,
+    "digit_count": 2,
+    "confidence": 0.9375,
+    "bbox": [
+      2,
+      0,
+      34,
+      24
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_5_crop_1.png"
+  },
+  {
+    "text": "112\"",
+    "numeric_value": 112.0,
+    "digit_count": 3,
+    "confidence": 0.8261,
+    "bbox": [
+      5,
+      3,
+      41,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_5_crop_2.png"
+  },
+  {
+    "text": "141\"",
+    "numeric_value": 141.0,
+    "digit_count": 3,
+    "confidence": 0.9838,
+    "bbox": [
+      1,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_5_crop_3.png"
+  },
+  {
+    "text": "94\"",
+    "numeric_value": 94.0,
+    "digit_count": 2,
+    "confidence": 0.8162,
+    "bbox": [
+      3,
+      3,
+      29,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_5_crop_4.png"
+  },
+  {
+    "text": "236\"",
+    "numeric_value": 236.0,
+    "digit_count": 3,
+    "confidence": 1.0,
+    "bbox": [
+      7,
+      3,
+      41,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_5_crop_5.png"
+  },
+  {
+    "text": "94\"",
+    "numeric_value": 94.0,
+    "digit_count": 2,
+    "confidence": 0.8401,
+    "bbox": [
+      3,
+      3,
+      29,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_5_crop_6.png"
+  },
+  {
+    "text": "13m",
+    "numeric_value": 13.0,
+    "digit_count": 2,
+    "confidence": 0.9999,
+    "bbox": [
+      3,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_0.png"
+  },
+  {
+    "text": "5",
+    "numeric_value": 5.0,
+    "digit_count": 1,
+    "confidence": 0.8026,
+    "bbox": [
+      5,
+      15,
+      19,
+      37
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_1.png"
+  },
+  {
+    "text": "2m",
+    "numeric_value": 2.0,
+    "digit_count": 1,
+    "confidence": 0.5242,
+    "bbox": [
+      15,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_10.png"
+  },
+  {
+    "text": "25m",
+    "numeric_value": 25.0,
+    "digit_count": 2,
+    "confidence": 0.9524,
+    "bbox": [
+      1,
+      3,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_11.png"
+  },
+  {
+    "text": "0.6m",
+    "numeric_value": 0.6,
+    "digit_count": 2,
+    "confidence": 0.9984,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_12.png"
+  },
+  {
+    "text": "3m",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.9999,
+    "bbox": [
+      15,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_13.png"
+  },
+  {
+    "text": "0.6m",
+    "numeric_value": 0.6,
+    "digit_count": 2,
+    "confidence": 0.9968,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_14.png"
+  },
+  {
+    "text": "0.6m",
+    "numeric_value": 0.6,
+    "digit_count": 2,
+    "confidence": 0.9998,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_15.png"
+  },
+  {
+    "text": "0.3m",
+    "numeric_value": 0.3,
+    "digit_count": 2,
+    "confidence": 0.9919,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_16.png"
+  },
+  {
+    "text": "0.6m",
+    "numeric_value": 0.6,
+    "digit_count": 2,
+    "confidence": 0.9992,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_17.png"
+  },
+  {
+    "text": "<0.5m",
+    "numeric_value": 0.5,
+    "digit_count": 2,
+    "confidence": 0.7117,
+    "bbox": [
+      0,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_18.png"
+  },
+  {
+    "text": "6m",
+    "numeric_value": 6.0,
+    "digit_count": 1,
+    "confidence": 0.9994,
+    "bbox": [
+      17,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_19.png"
+  },
+  {
+    "text": "1.4m",
+    "numeric_value": 1.4,
+    "digit_count": 2,
+    "confidence": 0.9188,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_2.png"
+  },
+  {
+    "text": "<0.5m",
+    "numeric_value": 0.5,
+    "digit_count": 2,
+    "confidence": 0.696,
+    "bbox": [
+      0,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_20.png"
+  },
+  {
+    "text": "14m",
+    "numeric_value": 14.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      1,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_21.png"
+  },
+  {
+    "text": "0.6m",
+    "numeric_value": 0.6,
+    "digit_count": 2,
+    "confidence": 0.9997,
+    "bbox": [
+      3,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_22.png"
+  },
+  {
+    "text": "3m",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.9997,
+    "bbox": [
+      15,
+      5,
+      39,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_23.png"
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.6805,
+    "bbox": [
+      5,
+      5,
+      19,
+      29
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_24.png"
+  },
+  {
+    "text": "0.8m =",
+    "numeric_value": 0.8,
+    "digit_count": 2,
+    "confidence": 0.4698,
+    "bbox": [
+      3,
+      5,
+      39,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_25.png"
+  },
+  {
+    "text": "0.5m",
+    "numeric_value": 0.5,
+    "digit_count": 2,
+    "confidence": 0.6418,
+    "bbox": [
+      3,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_26.png"
+  },
+  {
+    "text": "0.8m",
+    "numeric_value": 0.8,
+    "digit_count": 2,
+    "confidence": 0.9799,
+    "bbox": [
+      3,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_27.png"
+  },
+  {
+    "text": "12m",
+    "numeric_value": 12.0,
+    "digit_count": 2,
+    "confidence": 0.9899,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_28.png"
+  },
+  {
+    "text": "1.4m",
+    "numeric_value": 1.4,
+    "digit_count": 2,
+    "confidence": 0.9374,
+    "bbox": [
+      1,
+      5,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_29.png"
+  },
+  {
+    "text": "0.5m",
+    "numeric_value": 0.5,
+    "digit_count": 2,
+    "confidence": 0.6426,
+    "bbox": [
+      5,
+      3,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_3.png"
+  },
+  {
+    "text": "0.3m",
+    "numeric_value": 0.3,
+    "digit_count": 2,
+    "confidence": 0.6076,
+    "bbox": [
+      0,
+      3,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_30.png"
+  },
+  {
+    "text": "0.8m",
+    "numeric_value": 0.8,
+    "digit_count": 2,
+    "confidence": 0.9578,
+    "bbox": [
+      3,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_31.png"
+  },
+  {
+    "text": "3m",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.5234,
+    "bbox": [
+      13,
+      5,
+      39,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_32.png"
+  },
+  {
+    "text": "1lm",
+    "numeric_value": 1.0,
+    "digit_count": 1,
+    "confidence": 0.7758,
+    "bbox": [
+      1,
+      5,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_33.png"
+  },
+  {
+    "text": "9m",
+    "numeric_value": 9.0,
+    "digit_count": 1,
+    "confidence": 0.9633,
+    "bbox": [
+      17,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_34.png"
+  },
+  {
+    "text": "4m",
+    "numeric_value": 4.0,
+    "digit_count": 1,
+    "confidence": 0.9992,
+    "bbox": [
+      15,
+      5,
+      39,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_35.png"
+  },
+  {
+    "text": "1lm",
+    "numeric_value": 1.0,
+    "digit_count": 1,
+    "confidence": 0.7356,
+    "bbox": [
+      1,
+      5,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_36.png"
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.7208,
+    "bbox": [
+      5,
+      5,
+      19,
+      29
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_37.png"
+  },
+  {
+    "text": "0.8m",
+    "numeric_value": 0.8,
+    "digit_count": 2,
+    "confidence": 0.9339,
+    "bbox": [
+      3,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_38.png"
+  },
+  {
+    "text": "0.6m",
+    "numeric_value": 0.6,
+    "digit_count": 2,
+    "confidence": 0.9997,
+    "bbox": [
+      3,
+      5,
+      37,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_39.png"
+  },
+  {
+    "text": "5",
+    "numeric_value": 5.0,
+    "digit_count": 1,
+    "confidence": 0.9332,
+    "bbox": [
+      7,
+      15,
+      19,
+      39
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_4.png"
+  },
+  {
+    "text": "15m",
+    "numeric_value": 15.0,
+    "digit_count": 2,
+    "confidence": 0.992,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_40.png"
+  },
+  {
+    "text": "12m",
+    "numeric_value": 12.0,
+    "digit_count": 2,
+    "confidence": 0.9027,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_5.png"
+  },
+  {
+    "text": "9m -",
+    "numeric_value": 9.0,
+    "digit_count": 1,
+    "confidence": 0.9017,
+    "bbox": [
+      13,
+      3,
+      39,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_6.png"
+  },
+  {
+    "text": "0.9m",
+    "numeric_value": 0.9,
+    "digit_count": 2,
+    "confidence": 0.9958,
+    "bbox": [
+      3,
+      3,
+      39,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_7.png"
+  },
+  {
+    "text": "34",
+    "numeric_value": 34.0,
+    "digit_count": 2,
+    "confidence": 0.5305,
+    "bbox": [
+      5,
+      15,
+      23,
+      39
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_6_crop_8.png"
+  },
+  {
+    "text": "0.9m",
+    "numeric_value": 0.9,
+    "digit_count": 2,
+    "confidence": 0.8211,
+    "bbox": [
+      5,
+      5,
+      39,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_6_crop_9.png"
+  },
+  {
+    "text": "417",
+    "numeric_value": 417.0,
+    "digit_count": 3,
+    "confidence": 0.4448,
+    "bbox": [
+      5,
+      5,
+      27,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_0.png"
+  },
+  {
+    "text": "3",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.5238,
+    "bbox": [
+      5,
+      9,
+      21,
+      35
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_1.png"
+  },
+  {
+    "text": "f1",
+    "numeric_value": 1.0,
+    "digit_count": 1,
+    "confidence": 0.3736,
+    "bbox": [
+      3,
+      0,
+      23,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_10.png"
+  },
+  {
+    "text": "16\"",
+    "numeric_value": 16.0,
+    "digit_count": 2,
+    "confidence": 0.9999,
+    "bbox": [
+      0,
+      3,
+      29,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_11.png"
+  },
+  {
+    "text": "57",
+    "numeric_value": 57.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      3,
+      25,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_12.png"
+  },
+  {
+    "text": "64",
+    "numeric_value": 64.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      1,
+      5,
+      23,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_13.png"
+  },
+  {
+    "text": "3",
+    "numeric_value": 3.0,
+    "digit_count": 1,
+    "confidence": 0.9987,
+    "bbox": [
+      2,
+      0,
+      25,
+      36
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_7_crop_14.png"
+  },
+  {
+    "filename": "synthetic_plan_7_crop_15.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "20'",
+    "numeric_value": 20.0,
+    "digit_count": 2,
+    "confidence": 0.9079,
+    "bbox": [
+      3,
+      1,
+      27,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_16.png"
+  },
+  {
+    "text": "24\"",
+    "numeric_value": 24.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      3,
+      33,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_17.png"
+  },
+  {
+    "text": "29\"",
+    "numeric_value": 29.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      3,
+      33,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_18.png"
+  },
+  {
+    "text": "24\"",
+    "numeric_value": 24.0,
+    "digit_count": 2,
+    "confidence": 0.7925,
+    "bbox": [
+      5,
+      3,
+      33,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_19.png"
+  },
+  {
+    "filename": "synthetic_plan_7_crop_2.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_7_crop_20.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_7_crop_21.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "50",
+    "numeric_value": 50.0,
+    "digit_count": 2,
+    "confidence": 0.9994,
+    "bbox": [
+      1,
+      3,
+      23,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_22.png"
+  },
+  {
+    "text": "50'",
+    "numeric_value": 50.0,
+    "digit_count": 2,
+    "confidence": 0.9999,
+    "bbox": [
+      1,
+      3,
+      25,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_23.png"
+  },
+  {
+    "text": "6",
+    "numeric_value": 6.0,
+    "digit_count": 1,
+    "confidence": 0.4206,
+    "bbox": [
+      3,
+      7,
+      21,
+      33
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_7_crop_24.png"
+  },
+  {
+    "text": "19\"",
+    "numeric_value": 19.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      3,
+      33,
+      21
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_7_crop_25.png"
+  },
+  {
+    "filename": "synthetic_plan_7_crop_26.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.9836,
+    "bbox": [
+      3,
+      7,
+      19,
+      33
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_7_crop_27.png"
+  },
+  {
+    "text": "70\"",
+    "numeric_value": 70.0,
+    "digit_count": 2,
+    "confidence": 0.9864,
+    "bbox": [
+      3,
+      5,
+      31,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_3.png"
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.4074,
+    "bbox": [
+      3,
+      7,
+      19,
+      31
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_7_crop_4.png"
+  },
+  {
+    "filename": "synthetic_plan_7_crop_5.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "35",
+    "numeric_value": 35.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      1,
+      3,
+      23,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_6.png"
+  },
+  {
+    "filename": "synthetic_plan_7_crop_7.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "8",
+    "numeric_value": 8.0,
+    "digit_count": 1,
+    "confidence": 0.9443,
+    "bbox": [
+      7,
+      5,
+      23,
+      43
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_8.png"
+  },
+  {
+    "text": "'15",
+    "numeric_value": 15.0,
+    "digit_count": 2,
+    "confidence": 0.8373,
+    "bbox": [
+      0,
+      3,
+      23,
+      21
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_7_crop_9.png"
+  },
+  {
+    "text": "5",
+    "numeric_value": 5.0,
+    "digit_count": 1,
+    "confidence": 0.6434,
+    "bbox": [
+      5,
+      5,
+      19,
+      29
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_8_crop_0.png"
+  },
+  {
+    "filename": "synthetic_plan_8_crop_1.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_8_crop_10.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "40\"",
+    "numeric_value": 40.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      5,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_11.png"
+  },
+  {
+    "text": "95\"",
+    "numeric_value": 95.0,
+    "digit_count": 2,
+    "confidence": 0.806,
+    "bbox": [
+      1,
+      3,
+      25,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_12.png"
+  },
+  {
+    "filename": "synthetic_plan_8_crop_13.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "23\"_",
+    "numeric_value": 23.0,
+    "digit_count": 2,
+    "confidence": 0.9533,
+    "bbox": [
+      5,
+      3,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_14.png"
+  },
+  {
+    "text": "15\"",
+    "numeric_value": 15.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      5,
+      5,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_15.png"
+  },
+  {
+    "text": "34\"_",
+    "numeric_value": 34.0,
+    "digit_count": 2,
+    "confidence": 0.9721,
+    "bbox": [
+      5,
+      3,
+      31,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_16.png"
+  },
+  {
+    "text": "11\"",
+    "numeric_value": 11.0,
+    "digit_count": 2,
+    "confidence": 0.9678,
+    "bbox": [
+      5,
+      5,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_17.png"
+  },
+  {
+    "text": "34\"",
+    "numeric_value": 34.0,
+    "digit_count": 2,
+    "confidence": 0.8808,
+    "bbox": [
+      5,
+      5,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_18.png"
+  },
+  {
+    "filename": "synthetic_plan_8_crop_19.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "26\"",
+    "numeric_value": 26.0,
+    "digit_count": 2,
+    "confidence": 0.9621,
+    "bbox": [
+      3,
+      3,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_2.png"
+  },
+  {
+    "filename": "synthetic_plan_8_crop_20.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "11\"",
+    "numeric_value": 11.0,
+    "digit_count": 2,
+    "confidence": 0.9982,
+    "bbox": [
+      1,
+      5,
+      25,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_21.png"
+  },
+  {
+    "text": "70\"",
+    "numeric_value": 70.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      5,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_22.png"
+  },
+  {
+    "text": "4",
+    "numeric_value": 4.0,
+    "digit_count": 1,
+    "confidence": 0.723,
+    "bbox": [
+      5,
+      5,
+      19,
+      29
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_23.png"
+  },
+  {
+    "text": "56\"",
+    "numeric_value": 56.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      1,
+      5,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_24.png"
+  },
+  {
+    "text": "56\"",
+    "numeric_value": 56.0,
+    "digit_count": 2,
+    "confidence": 0.9051,
+    "bbox": [
+      1,
+      5,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_25.png"
+  },
+  {
+    "filename": "synthetic_plan_8_crop_3.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "26\"",
+    "numeric_value": 26.0,
+    "digit_count": 2,
+    "confidence": 0.9621,
+    "bbox": [
+      3,
+      3,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_4.png"
+  },
+  {
+    "text": "25\"_",
+    "numeric_value": 25.0,
+    "digit_count": 2,
+    "confidence": 0.8504,
+    "bbox": [
+      5,
+      5,
+      29,
+      19
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_5.png"
+  },
+  {
+    "text": "11\"",
+    "numeric_value": 11.0,
+    "digit_count": 2,
+    "confidence": 0.9861,
+    "bbox": [
+      5,
+      1,
+      29,
+      17
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_8_crop_6.png"
+  },
+  {
+    "text": "70\"",
+    "numeric_value": 70.0,
+    "digit_count": 2,
+    "confidence": 1.0,
+    "bbox": [
+      3,
+      5,
+      27,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_7.png"
+  },
+  {
+    "filename": "synthetic_plan_8_crop_8.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "4",
+    "numeric_value": 4.0,
+    "digit_count": 1,
+    "confidence": 0.9441,
+    "bbox": [
+      3,
+      3,
+      18,
+      29
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_8_crop_9.png"
+  },
+  {
+    "text": "22\"",
+    "numeric_value": 22.0,
+    "digit_count": 2,
+    "confidence": 0.9956,
+    "bbox": [
+      5,
+      3,
+      29,
+      17
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_9_crop_0.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_1.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "8'11\"",
+    "numeric_value": 811.0,
+    "digit_count": 3,
+    "confidence": 0.6808,
+    "bbox": [
+      1,
+      3,
+      35,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_10.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_11.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_12.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_13.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "5'10\"",
+    "numeric_value": 510.0,
+    "digit_count": 3,
+    "confidence": 0.6865,
+    "bbox": [
+      1,
+      3,
+      35,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_14.png"
+  },
+  {
+    "text": "0'14",
+    "numeric_value": 14.0,
+    "digit_count": 3,
+    "confidence": 0.8823,
+    "bbox": [
+      1,
+      1,
+      29,
+      15
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_15.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_16.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "2",
+    "numeric_value": 2.0,
+    "digit_count": 1,
+    "confidence": 0.9071,
+    "bbox": [
+      3,
+      5,
+      17,
+      31
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_9_crop_17.png"
+  },
+  {
+    "text": "1",
+    "numeric_value": 1.0,
+    "digit_count": 1,
+    "confidence": 0.9686,
+    "bbox": [
+      5,
+      5,
+      19,
+      37
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_18.png"
+  },
+  {
+    "text": "2",
+    "numeric_value": 2.0,
+    "digit_count": 1,
+    "confidence": 0.9999,
+    "bbox": [
+      3,
+      7,
+      15,
+      29
+    ],
+    "rotation": "90_CCW",
+    "filename": "synthetic_plan_9_crop_19.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_2.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_20.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "1",
+    "numeric_value": 1.0,
+    "digit_count": 1,
+    "confidence": 0.9669,
+    "bbox": [
+      5,
+      5,
+      19,
+      37
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_21.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_22.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "8'[1\"",
+    "numeric_value": 8.0,
+    "digit_count": 2,
+    "confidence": 0.5559,
+    "bbox": [
+      1,
+      3,
+      35,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_23.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_24.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_25.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "0'11\"",
+    "numeric_value": 11.0,
+    "digit_count": 3,
+    "confidence": 0.4807,
+    "bbox": [
+      1,
+      3,
+      35,
+      19
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_26.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_27.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_28.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_29.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "5'10\"",
+    "numeric_value": 510.0,
+    "digit_count": 3,
+    "confidence": 0.8299,
+    "bbox": [
+      1,
+      3,
+      33,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_3.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_30.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "2",
+    "numeric_value": 2.0,
+    "digit_count": 1,
+    "confidence": 0.6845,
+    "bbox": [
+      3,
+      9,
+      15,
+      37
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_9_crop_31.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_32.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_33.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "text": "3'9",
+    "numeric_value": 39.0,
+    "digit_count": 2,
+    "confidence": 0.932,
+    "bbox": [
+      1,
+      3,
+      23,
+      17
+    ],
+    "rotation": "90_CW",
+    "filename": "synthetic_plan_9_crop_34.png"
+  },
+  {
+    "text": "3170",
+    "numeric_value": 3170.0,
+    "digit_count": 4,
+    "confidence": 0.5483,
+    "bbox": [
+      6,
+      4,
+      28,
+      12
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_9_crop_4.png"
+  },
+  {
+    "text": "2'11\"",
+    "numeric_value": 211.0,
+    "digit_count": 3,
+    "confidence": 0.4126,
+    "bbox": [
+      5,
+      3,
+      37,
+      17
+    ],
+    "rotation": "0",
+    "filename": "synthetic_plan_9_crop_5.png"
+  },
+  {
+    "filename": "synthetic_plan_9_crop_6.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_7.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_8.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  },
+  {
+    "filename": "synthetic_plan_9_crop_9.png",
+    "text": "",
+    "numeric_value": null,
+    "digit_count": 0,
+    "confidence": 0.0,
+    "bbox": [],
+    "rotation": -1
+  }
+]
